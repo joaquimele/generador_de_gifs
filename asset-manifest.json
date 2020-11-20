@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/generador_de_gifs/static/css/main.4f60f836.chunk.css",
+    "main.js": "/generador_de_gifs/static/js/main.f16b8ea6.chunk.js",
+    "main.js.map": "/generador_de_gifs/static/js/main.f16b8ea6.chunk.js.map",
+    "runtime-main.js": "/generador_de_gifs/static/js/runtime-main.b79783a6.js",
+    "runtime-main.js.map": "/generador_de_gifs/static/js/runtime-main.b79783a6.js.map",
+    "static/js/2.e83d046b.chunk.js": "/generador_de_gifs/static/js/2.e83d046b.chunk.js",
+    "static/js/2.e83d046b.chunk.js.map": "/generador_de_gifs/static/js/2.e83d046b.chunk.js.map",
+    "static/js/3.b0fa853f.chunk.js": "/generador_de_gifs/static/js/3.b0fa853f.chunk.js",
+    "static/js/3.b0fa853f.chunk.js.map": "/generador_de_gifs/static/js/3.b0fa853f.chunk.js.map",
+    "index.html": "/generador_de_gifs/index.html",
+    "static/css/main.4f60f836.chunk.css.map": "/generador_de_gifs/static/css/main.4f60f836.chunk.css.map",
+    "static/js/2.e83d046b.chunk.js.LICENSE.txt": "/generador_de_gifs/static/js/2.e83d046b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b79783a6.js",
+    "static/js/2.e83d046b.chunk.js",
+    "static/css/main.4f60f836.chunk.css",
+    "static/js/main.f16b8ea6.chunk.js"
+  ]
+}
